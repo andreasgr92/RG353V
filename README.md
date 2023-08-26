@@ -1,4 +1,4 @@
-# RG353P
+# RG353V
 Knowledge for Handheld Device RG353V
 
 CPU / Architecture: Rockchip RK3566 (ARM), same as Anbernic RG353P/M/V/VS, RG503, and Powkiddy RK2023, x55  
