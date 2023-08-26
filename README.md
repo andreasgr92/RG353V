@@ -1,5 +1,5 @@
 # RG353P
-Knowledge for Handheld Device RG353P
+Knowledge for Handheld Device RG353V
 
 CPU / Architecture: Rockchip RK3566 (ARM), same as Anbernic RG353P/M/V/VS, RG503, and Powkiddy RK2023, x55  
 Kernel: Rockchip BSP 4.19  
@@ -18,12 +18,12 @@ Set device for the first time:
 
 Press `START` -> `MAIN MENU` -> `NETWORK SETTINGS`  
 `ENABLE WIFI` : change to `ON`  
-`WIFI SSID` : change to `Dhani Home`  
-`WIFI KEY` : change to `Genteng2202`  
+`WIFI SSID` : change to ``  
+`WIFI KEY` : change to ``  
 
 Open ssh IP ADDRESS (192.168.1.X) and execute this command:  
-`wget https://raw.githubusercontent.com/leonkasovan/RG353P/main/rg353p_setup_batocera_es.sh -O - | /bin/bash`  
+`wget https://raw.githubusercontent.com/andreasgr/RG353V/main/rg353v_setup_batocera_es.sh -O - | /bin/bash`  
 
-## Apps for RG353P
+## Apps for RG353V
 Mini File Manager (Enhanced) : https://github.com/leonkasovan/351Files  
 Custom Emulation Station : https://github.com/leonkasovan/batocera-emulationstation
